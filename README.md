@@ -1,2 +1,2 @@
 # RoboPong
-Projet ROBO PONG  réliser la partie cerveau central Raspberry pi
+Projet ROBO PONG  réaliser la partie main central Raspberry pi
